@@ -1,5 +1,5 @@
 # MoodLog
-A quiet corner on your desktop to log how you feel — 365-day mood heatmap and a note to your future self.
+A quiet corner on your MacOS desktop to log how you feel — 365-day mood heatmap and a note to your future self.
 
 
 ## Application architecture diagram
